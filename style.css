@@ -1,0 +1,35 @@
+body{
+    background: #252B31;
+}
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    margin: 100px;
+    font-size:3em;
+    margin-top: 100px;
+
+}
+.sanitize-icon{
+    text-align: center;
+    /* margin-bottom: 30px; */
+    margin-bottom : 50px;
+}
+/* .sanitize{
+    margin: auto;
+} */
+.clock{
+    font-size:4em;
+    text-align:  center;
+    /* margin: 80px auto;  */
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+ }
+
+ .clock span{
+     padding: 20px;
+     background: #E75A7C;
+     border-radius: 100px;
+
+ }
